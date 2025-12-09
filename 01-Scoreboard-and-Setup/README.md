@@ -22,9 +22,9 @@ Each folder contains a detailed write-up, including:
 ## ⚡ Quick Start (Docker)
 To replicate these findings, spin up the lab using the Docker container:
 
-```bash
-docker pull bkimminich/juice-shop
-docker run --rm -p 3000:3000 bkimminich/juice-shop
+
+`docker pull bkimminich/juice-shop`
+`docker run --rm -p 3000:3000 bkimminich/juice-shop`
 
 Access the shop at: http://localhost:3000
 🏆 Challenge Matrix
