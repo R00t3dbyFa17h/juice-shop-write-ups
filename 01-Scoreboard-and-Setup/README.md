@@ -27,6 +27,7 @@ To replicate these findings, spin up the lab using the Docker container:
 `docker run --rm -p 3000:3000 bkimminich/juice-shop`
 
 Access the shop at: http://localhost:3000
+
 🏆 Challenge Matrix
 ID	Challenge Name	Difficulty	Category	Status	Write-up
 01	Score Board	⭐	Misc	✅ Solved	View
